@@ -1,5 +1,9 @@
-# odin-recipes
+# Recipes List
 
-First project of TOP Foundation Course.
+## Links
+- [Try Recipes List here!](https://pedrim30.github.io/odin-recipes/)
 
-The objective of this project is to put my knowledge in HTML into practice, creating a list of recipes
+- [Link to the Assignment](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
+
+## About
+A simple webpage made during the foundations course on the Odin Project. Clicking on a recipe link will show the instructions and ingredients required to make the dish.
