@@ -1,0 +1,32 @@
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3rem;
+    font-weight: bold;
+    color: #2E3440;
+}
+
+body {
+    background-color: #ECEFF4;
+}
+
+.visual {
+    display: block;
+    margin: auto;
+    border-radius: 25px;
+    width: min(70%, 500px);
+    height: 375px; 
+}
+
+.recipes {
+    padding: 5px;
+    font-size: 1.5rem;
+    list-style: none;
+    text-align: center;
+}
+
+a {
+    color: #2E3440;
+    text-decoration: none;
+}
